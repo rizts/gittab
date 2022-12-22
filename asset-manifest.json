@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gittab/static/css/main.12815624.css",
+    "main.js": "/gittab/static/js/main.6883fc8b.js",
+    "static/js/651.d281b85e.chunk.js": "/gittab/static/js/651.d281b85e.chunk.js",
+    "static/media/glyphicons-halflings-regular.svg": "/gittab/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/gittab/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/gittab/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/gittab/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/gittab/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/gittab/index.html",
+    "main.12815624.css.map": "/gittab/static/css/main.12815624.css.map",
+    "main.6883fc8b.js.map": "/gittab/static/js/main.6883fc8b.js.map",
+    "651.d281b85e.chunk.js.map": "/gittab/static/js/651.d281b85e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12815624.css",
+    "static/js/main.6883fc8b.js"
+  ]
+}
