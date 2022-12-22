@@ -1,7 +1,7 @@
 {
   "name": "gittab",
   "version": "0.1.0",
-  "homepage": "https://rizts.github.io/gittab",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@octokit/core": "^4.1.0",
